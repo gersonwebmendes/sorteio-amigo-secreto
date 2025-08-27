@@ -14,7 +14,7 @@ Projeto realizado atraves do curso:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&labelColor=E34F26&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&labelColor=1572B6&style=for-the-badge)
 
-### ⏳ Inicio da Execução  do  projeto 
+### ⏳ Execução  do  projeto 
 
 <img width="1856" height="924" alt="image" src="https://github.com/user-attachments/assets/21307d5c-bd89-4a75-a2d4-6a7d48858b89" />
 
